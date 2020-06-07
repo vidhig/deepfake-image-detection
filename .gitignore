@@ -1,0 +1,6 @@
+.DS_Store
+combined-real-and-fake-faces/*
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+vector_reps/
+models/
